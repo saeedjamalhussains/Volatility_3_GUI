@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Environment / secrets
+.env
+.env.local
+
+# OS
+.DS_Store
+
+# Claude
+.claude/
+CLAUDE.md
+CLAUDE.local.md
